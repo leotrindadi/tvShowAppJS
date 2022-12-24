@@ -1,0 +1,21 @@
+body{
+    background-color: darkred;
+}
+
+#movies{
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    min-height: 500px;
+    width: 1025px;
+    margin: auto;
+    background-color: white;
+}
+
+#searchForm{
+    padding-bottom: 30px;
+}
+
+#imgs{
+    align-self: center;
+}
